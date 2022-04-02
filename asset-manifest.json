@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.b8eb4689.css",
+    "main.js": "/memory-card/static/js/main.ec0ffed1.js",
+    "static/media/australia.jpg": "/memory-card/static/media/australia.99cbd7c10d5060bc6f75.jpg",
+    "static/media/canada.jpg": "/memory-card/static/media/canada.65dbc41310d088fcd888.jpg",
+    "static/media/brazil.jpg": "/memory-card/static/media/brazil.99381c8831993022964d.jpg",
+    "static/media/philippines.png": "/memory-card/static/media/philippines.70070451ed657154e2da.png",
+    "static/media/usa.png": "/memory-card/static/media/usa.42991d81067910b0924b.png",
+    "static/media/mexico.jpg": "/memory-card/static/media/mexico.75b8d73e3c00c3f312e6.jpg",
+    "static/media/spain.jpg": "/memory-card/static/media/spain.d9c834af21f01840b6d3.jpg",
+    "index.html": "/memory-card/index.html",
+    "main.b8eb4689.css.map": "/memory-card/static/css/main.b8eb4689.css.map",
+    "main.ec0ffed1.js.map": "/memory-card/static/js/main.ec0ffed1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8eb4689.css",
+    "static/js/main.ec0ffed1.js"
+  ]
+}
