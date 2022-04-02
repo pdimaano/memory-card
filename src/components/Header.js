@@ -7,7 +7,7 @@ function Header(props) {
         <header className="header">
             <h1 className="main-title">Memory Game</h1>
             <div className="scoreboard">
-                <p className="current-score">Score: {score}</p>
+                <p className="current-score">Current Score: {score}</p>
                 <p className="high-score">High Score: {highScore}</p>
             </div>
         </header>
